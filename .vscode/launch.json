@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Menu interactif (Main)",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Démonstration automatique",
+            "request": "launch",
+            "mainClass": "application.DemoAutomatique",
+            "console": "integratedTerminal"
+        }
+    ]
+}
